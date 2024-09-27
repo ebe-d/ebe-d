@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Ebenezar d'souza</a></b>
+                <b><a target="_blank" href="">Ebenezer D'souza</a></b>
         </samp>
 </h3>
 
@@ -91,5 +91,5 @@
   <a href="https://github.com/ebe-d"><img alt="Aaron's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ebe-d&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
 
-![Ebenezar's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ebe-d&custom_title=Ebe's%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Ebenezer's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ebe-d&custom_title=Ebe's%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
