@@ -33,7 +33,7 @@
  ❤️  &emsp; Passionate about programming and eager to share knowledge<br/><br/>
  📡 &emsp; I'm enthusiastic about open source and intrigued by Web3<br/><br/>
  📧 &emsp; Reach me anytime: ebenezerdsouza27@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://twitter.com/EbeD_LEARNS)
+ 💬 &emsp; Ask me about anything [here](https://x.com/EbenezerD_souza)
 
 </samp>
 
